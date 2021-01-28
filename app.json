@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.pedroOliveira.biergartenSmets",
+      "package": "com.pedroOliveira.StockAppbiergartenSmets",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/smets.png",
