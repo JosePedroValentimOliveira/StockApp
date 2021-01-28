@@ -1,0 +1,1 @@
+export const apiUrl = "https://beer-api-smets.herokuapp.com"

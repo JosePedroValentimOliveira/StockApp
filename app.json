@@ -3,12 +3,12 @@
     "name": "StockApp",
     "slug": "StockApp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#5a6868"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,9 +20,11 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.pedroOliveira.biergartenSmets",
+      "versionCode": 1,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/smets.png",
+        "backgroundColor": "#5a6868"
       }
     },
     "web": {
